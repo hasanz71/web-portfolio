@@ -62,6 +62,9 @@ section {
   background-position: left;
   background-size: 90px;
 }
+.experience-header {
+  padding-left: 63px;
+}
 #full-stack {
   border-left: 7px solid;
   border-image: linear-gradient(180deg, darkorange, orange);
